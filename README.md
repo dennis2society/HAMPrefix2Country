@@ -13,4 +13,4 @@ This is an Android app that translates callsign prefixes into the closest matchi
   - initial commit (decimal version digit chosen by dice roll)
 
 ## Author
-- Dennis Lübke, 205
+- Dennis Lübke, 2025
