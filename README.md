@@ -9,9 +9,8 @@ This is an Android app that translates callsign prefixes into the closest matchi
 
 
 ## Changelog
-- v0.3:
+- v0.3.1:
   - initial commit (decimal version digit chosen by dice roll)
 
 ## Author
-- Dennis Lübke, 2025
-- android-dev@dennis2society.de
+- Dennis Lübke, 202
