@@ -1,0 +1,947 @@
+prefix;country
+nan;Spratly Islands
+1A;Sovereign Military Order of Malta
+3A;Monaco
+3B6;Agaléga and Saint Brandon
+3B7;Agaléga and Saint Brandon
+3B8;Mauritius
+3B9;Rodrigues Island
+3C;Equatorial Guinea
+3C0;Annobón
+3D2;Fiji
+3D2;Rotuma Island
+3D2;Conway Reef
+3DA;Eswatini
+3V;Tunisia
+3W;Viet Nam
+XV;Viet Nam
+3X;Guinea
+3Y;Bouvet Island
+3Y;Peter I Island
+4J;Azerbaijan
+4K;Azerbaijan
+4L;Georgia
+4O;Montenegro
+4S;Sri Lanka
+4U;International Telecommunication Union Headquarters
+4U;United Nations Headquarters
+4W;Timor-Leste
+4X;Israel
+4Z;Israel
+5A;Libya
+5B;Cyprus
+C4;Cyprus
+P3;Cyprus
+5H;Tanzania
+5I;Tanzania
+5N;Nigeria
+5R;Madagascar
+5T;Mauritania
+5U;Niger
+5V;Togo
+5W;Samoa
+5X;Uganda
+5Y;Kenya
+5Z;Kenya
+6V;Senegal
+6W;Senegal
+6Y;Jamaica
+7O;Yemen
+7P;Lesotho
+7Q;Malawi
+7T;Algeria
+7U;Algeria
+7V;Algeria
+7W;Algeria
+7X;Algeria
+7Y;Algeria
+8P;Barbados
+8Q;Maldives
+8R;Guyana
+9A;Croatia
+9G;Ghana
+9H;Malta
+9I;Zambia
+9J;Zambia
+9K;Kuwait
+9L;Sierra Leone
+9M2;West Malaysia
+9M4;West Malaysia
+9M6;East Malaysia
+9M8;East Malaysia
+9N;Nepal
+9Q;Democratic Republic of the Congo
+9R;Democratic Republic of the Congo
+9S;Democratic Republic of the Congo
+9T;Democratic Republic of the Congo
+9U;Burundi
+9V;Singapore
+9X;Rwanda
+9Y;Trinidad and Tobago
+9Z;Trinidad and Tobago
+A2;Botswana
+A3;Tonga
+A4;Oman
+A5;Bhutan
+A6;United Arab Emirates
+A7;Qatar
+A9;Bahrain
+AP;Pakistan
+B;China
+BS7;Scarborough Shoal
+BU;Taiwan
+BV;Taiwan
+BW;Taiwan
+BX;Taiwan
+BV9P;Pratas Island
+C2;Nauru
+C3;Andorra
+C5;The Gambia
+C6;Bahamas
+C8;Mozambique
+C9;Mozambique
+CA;Chile
+CB;Chile
+CC;Chile
+CD;Chile
+CE;Chile
+CE0;Easter Island
+CE0;Juan Fernández Islands
+CE0;Desventuradas Islands
+CE9;Antarctica
+KC4;Antarctica
+CM;Cuba
+CO;Cuba
+CN;Morocco
+CP;Bolivia
+CT;Portugal
+CT3;Madeira
+CU;Azores
+CV;Uruguay
+CW;Uruguay
+CX;Uruguay
+CY0;Sable Island
+CY9;St. Paul Island
+D2;Angola
+D3;Angola
+D4;Cape Verde
+D6;Comoros
+DA;Germany
+DB;Germany
+DC;Germany
+DD;Germany
+DE;Germany
+DF;Germany
+DG;Germany
+DH;Germany
+DI;Germany
+DJ;Germany
+DK;Germany
+DL;Germany
+DM;Germany
+DN;Germany
+DO;Germany
+DP;Germany
+DQ;Germany
+DR;Germany
+DU;Philippines
+DV;Philippines
+DW;Philippines
+DX;Philippines
+DY;Philippines
+DZ;Philippines
+4D;Philippines
+4E;Philippines
+4F;Philippines
+4G;Philippines
+4H;Philippines
+4I;Philippines
+E3;Eritrea
+E4;Palestine
+E5;North Cook Islands
+E5;South Cook Islands
+E6;Niue
+E7;Bosnia-Herzegovina
+EA;Spain
+EB;Spain
+EC;Spain
+ED;Spain
+EE;Spain
+EF;Spain
+EG;Spain
+EH;Spain
+EA6;Balearic Islands
+EB6;Balearic Islands
+EC6;Balearic Islands
+ED6;Balearic Islands
+EE6;Balearic Islands
+EF6;Balearic Islands
+EG6;Balearic Islands
+EH6;Balearic Islands
+EA8;Canary Islands
+EB8;Canary Islands
+EC8;Canary Islands
+ED8;Canary Islands
+EE8;Canary Islands
+EF8;Canary Islands
+EG8;Canary Islands
+EH8;Canary Islands
+EA9;Ceuta and Melilla
+EB9;Ceuta and Melilla
+EC9;Ceuta and Melilla
+ED9;Ceuta and Melilla
+EE9;Ceuta and Melilla
+EF9;Ceuta and Melilla
+EG9;Ceuta and Melilla
+EH9;Ceuta and Melilla
+EI;Ireland
+EJ;Ireland
+EK;Armenia
+EL;Liberia
+EP;Iran
+EQ;Iran
+ER;Moldova
+ES;Estonia
+ET;Ethiopia
+EU;Belarus
+EV;Belarus
+EW;Belarus
+EX;Kyrgyzstan
+EY;Tajikistan
+EZ;Turkmenistan
+F;France
+FG;Guadeloupe
+TO;Guadeloupe
+FH;Mayotte
+TO;Mayotte
+FJ;Saint Barthélemy
+TO;Saint Barthélemy
+FK;New Caledonia
+TX;New Caledonia
+FK;Chesterfield Islands
+TX;Chesterfield Islands
+FM;Martinique
+TO;Martinique
+FO;Austral Islands
+TO;Austral Islands
+FO;Clipperton Island
+TX;Clipperton Island
+FO;French Polynesia
+TX;French Polynesia
+FO;Marquesas Islands
+TX;Marquesas Islands
+FP;Saint Pierre and Miquelon
+FR;Réunion
+TO;Réunion
+FS;Saint Martin
+TO;Saint Martin
+FT/G;Glorioso Islands
+TO;Glorioso Islands
+FT/J;Juan de Nova and Europa Islands
+E;Juan de Nova and Europa Islands
+TO;Juan de Nova and Europa Islands
+FT/T;Tromelin Island
+TO;Tromelin Island
+FT/W;Crozet Islands
+FT/X;Kerguelen Islands
+FT/Z;Amsterdam and Saint-Paul Islands
+FW;Wallis and Futuna Islands
+FY;French Guiana
+G;England
+GX;England
+M;England
+GD;Isle of Man
+GT;Isle of Man
+GI;Northern Ireland
+GN;Northern Ireland
+GJ;Jersey
+GH;Jersey
+GM;Scotland
+GS;Scotland
+GU;Guernsey
+GP;Guernsey
+GW;Wales
+GC;Wales
+H4;Solomon Islands
+H40;Temotu Province
+HA;Hungary
+HG;Hungary
+HB;Switzerland
+HB0;Liechtenstein
+HC;Ecuador
+HD;Ecuador
+HC8;Galápagos Islands
+HD8;Galápagos Islands
+HH;Haiti
+HI;Dominican Republic
+HJ;Colombia
+HK;Colombia
+5J;Colombia
+5K;Colombia
+HK0;Malpelo Island
+HK0;San Andrés and Providencia
+HL;South Korea
+6K;South Korea
+6L;South Korea
+6M;South Korea
+6N;South Korea
+HO;Panama
+HP;Panama
+HQ;Honduras
+HR;Honduras
+HS;Thailand
+E2;Thailand
+HV;Vatican
+HZ;Saudi Arabia
+I;Italy
+IS0;Sardinia
+IM0;Sardinia
+J2;Djibouti
+J3;Grenada
+J5;Guinea-Bissau
+J6;Saint Lucia
+J7;Dominica
+J8;Saint Vincent and the Grenadines
+JA;Japan
+JB;Japan
+JC;Japan
+JD;Japan
+JE;Japan
+JF;Japan
+JG;Japan
+JH;Japan
+JI;Japan
+JJ;Japan
+JK;Japan
+JL;Japan
+JM;Japan
+JN;Japan
+JO;Japan
+JP;Japan
+JQ;Japan
+JR;Japan
+JS;Japan
+7J;Japan
+7K;Japan
+7L;Japan
+7M;Japan
+7N;Japan
+JD1;Minami-Tori-shima
+JD1;Ogasawara Islands
+JT;Mongolia
+JU;Mongolia
+JV;Mongolia
+JW;Svalbard
+JX;Jan Mayen
+JY;Jordan
+K;United States of America
+W;United States of America
+N;United States of America
+AA;United States of America
+AB;United States of America
+AC;United States of America
+AD;United States of America
+AE;United States of America
+AF;United States of America
+AG;United States of America
+AH;United States of America
+AI;United States of America
+AJ;United States of America
+AK;United States of America
+KG4;Guantanamo Bay
+KH0;Mariana Islands
+KH1;Howland and Baker Islands
+KH2;Guam
+KH3;Johnston Atoll
+KH4;Midway Atoll
+KH5;Palmyra and Jarvis Islands
+KH6;Hawaii
+KH7;Hawaii
+KH7K;Kure Atoll
+KH8;American Samoa
+KH8;Swains Island
+KH9;Wake Island
+KL;Alaska
+AL;Alaska
+NL;Alaska
+WL;Alaska
+KP1;Navassa Island
+KP2;US Virgin Islands
+KP3;Puerto Rico
+KP4;Puerto Rico
+KP5;Desecheo Island
+LA;Norway
+LB;Norway
+LC;Norway
+LD;Norway
+LE;Norway
+LF;Norway
+LG;Norway
+LH;Norway
+LI;Norway
+LJ;Norway
+LK;Norway
+LL;Norway
+LM;Norway
+LN;Norway
+LO;Argentina
+LP;Argentina
+LQ;Argentina
+LR;Argentina
+LS;Argentina
+LT;Argentina
+LU;Argentina
+LV;Argentina
+LW;Argentina
+LX;Luxembourg
+LY;Lithuania
+LZ;Bulgaria
+OA;Peru
+OB;Peru
+OC;Peru
+OD;Lebanon
+OE;Austria
+OF;Finland
+OG;Finland
+OH;Finland
+OI;Finland
+OH0;Åland Islands
+OJ0;Märket Island
+OK;Czech Republic
+OL;Czech Republic
+OM;Slovakia
+ON;Belgium
+OO;Belgium
+OP;Belgium
+OQ;Belgium
+OR;Belgium
+OS;Belgium
+OT;Belgium
+OU;Denmark
+OV;Denmark
+OW;Denmark
+OZ;Denmark
+OX;Greenland
+OY;Faroe Islands
+P2;Papua New Guinea
+P4;Aruba
+P5;Democratic People's Republic of Korea
+PA;Netherlands
+PB;Netherlands
+PC;Netherlands
+PD;Netherlands
+PE;Netherlands
+PF;Netherlands
+PG;Netherlands
+PH;Netherlands
+PI;Netherlands
+PJ2;Curaçao
+PJ4;Bonaire
+PJ5;Saba and Sint Eustatius
+PJ6;Saba and Sint Eustatius
+PJ7;Sint Maarten
+PP;Brazil
+PQ;Brazil
+PR;Brazil
+PS;Brazil
+PT;Brazil
+PU;Brazil
+PV;Brazil
+PW;Brazil
+PX;Brazil
+PY;Brazil
+ZV;Brazil
+ZW;Brazil
+ZX;Brazil
+ZY;Brazil
+ZZ;Brazil
+PP0F;Fernando de Noronha
+PQ0F;Fernando de Noronha
+PR0F;Fernando de Noronha
+PS0F;Fernando de Noronha
+PT0F;Fernando de Noronha
+PU0F;Fernando de Noronha
+PV0F;Fernando de Noronha
+PW0F;Fernando de Noronha
+PX0F;Fernando de Noronha
+PY0F;Fernando de Noronha
+PP0S;Saint Peter and Saint Paul Archipelago
+PQ0S;Saint Peter and Saint Paul Archipelago
+PR0S;Saint Peter and Saint Paul Archipelago
+PS0S;Saint Peter and Saint Paul Archipelago
+PT0S;Saint Peter and Saint Paul Archipelago
+PU0S;Saint Peter and Saint Paul Archipelago
+PV0S;Saint Peter and Saint Paul Archipelago
+PW0S;Saint Peter and Saint Paul Archipelago
+PX0S;Saint Peter and Saint Paul Archipelago
+PY0S;Saint Peter and Saint Paul Archipelago
+PP0T;Trindade and Martin Vaz
+PQ0T;Trindade and Martin Vaz
+PR0T;Trindade and Martin Vaz
+PS0T;Trindade and Martin Vaz
+PT0T;Trindade and Martin Vaz
+PU0T;Trindade and Martin Vaz
+PV0T;Trindade and Martin Vaz
+PW0T;Trindade and Martin Vaz
+PX0T;Trindade and Martin Vaz
+PY0T;Trindade and Martin Vaz
+PZ;Suriname
+R1/F;Franz Josef Land
+S0;Western Sahara
+S2;Bangladesh
+S5;Slovenia
+S7;Seychelles
+S9;Sao Tome and Principe
+SA;Sweden
+SB;Sweden
+SC;Sweden
+SD;Sweden
+SE;Sweden
+SF;Sweden
+SG;Sweden
+SH;Sweden
+SI;Sweden
+SJ;Sweden
+SK;Sweden
+SL;Sweden
+SM;Sweden
+7S;Sweden
+8S;Sweden
+SN;Poland
+SO;Poland
+SP;Poland
+SQ;Poland
+SR;Poland
+ST;Sudan
+SU;Egypt
+SV;Greece
+SW;Greece
+SX;Greece
+SY;Greece
+SZ;Greece
+J4;Greece
+SV/A;Mount Athos
+SV5;Dodecanese
+J45;Dodecanese
+SV9;Crete
+J49;Crete
+T2;Tuvalu
+T30;Gilbert Islands
+T31;Phoenix Islands
+T32;Line Islands
+T33;Banaba
+T5;Somalia
+6O;Somalia
+T7;San Marino
+T8;Palau
+TA;Turkey
+TB;Turkey
+TC;Turkey
+TF;Iceland
+TG;Guatemala
+TD;Guatemala
+TI;Costa Rica
+TE;Costa Rica
+TI9;Cocos Island
+TJ;Cameroon
+TK;Corsica
+TL;Central African Republic
+TN;Republic of the Congo
+TR;Gabon
+TT;Chad
+TU;Côte d'Ivoire
+TY;Benin
+TZ;Mali
+UA1;European Russia
+UA2;European Russia
+UA3;European Russia
+UA4;European Russia
+UA5;European Russia
+UA6;European Russia
+UA7;European Russia
+UB1;European Russia
+UB2;European Russia
+UB3;European Russia
+UB4;European Russia
+UB5;European Russia
+UB6;European Russia
+UB7;European Russia
+UC1;European Russia
+UC2;European Russia
+UC3;European Russia
+UC4;European Russia
+UC5;European Russia
+UC6;European Russia
+UC7;European Russia
+UD1;European Russia
+UD2;European Russia
+UD3;European Russia
+UD4;European Russia
+UD5;European Russia
+UD6;European Russia
+UD7;European Russia
+UE1;European Russia
+UE2;European Russia
+UE3;European Russia
+UE4;European Russia
+UE5;European Russia
+UE6;European Russia
+UE7;European Russia
+UF1;European Russia
+UF2;European Russia
+UF3;European Russia
+UF4;European Russia
+UF5;European Russia
+UF6;European Russia
+UF7;European Russia
+UG1;European Russia
+UG2;European Russia
+UG3;European Russia
+UG4;European Russia
+UG5;European Russia
+UG6;European Russia
+UG7;European Russia
+UH1;European Russia
+UH2;European Russia
+UH3;European Russia
+UH4;European Russia
+UH5;European Russia
+UH6;European Russia
+UH7;European Russia
+UI1;European Russia
+UI2;European Russia
+UI3;European Russia
+UI4;European Russia
+UI5;European Russia
+UI6;European Russia
+UI7;European Russia
+RA;European Russia
+RB;European Russia
+RC;European Russia
+RD;European Russia
+RE;European Russia
+RF;European Russia
+RG;European Russia
+RH;European Russia
+RI;European Russia
+RJ;European Russia
+RK;European Russia
+RL;European Russia
+RM;European Russia
+RN;European Russia
+RO;European Russia
+RP;European Russia
+RQ;European Russia
+RR;European Russia
+RS;European Russia
+RT;European Russia
+RU;European Russia
+RV;European Russia
+RW;European Russia
+RX;European Russia
+RY;European Russia
+RZ;European Russia
+UA0;Asiatic Russia
+UA8;Asiatic Russia
+UA9;Asiatic Russia
+UB0;Asiatic Russia
+UB8;Asiatic Russia
+UB9;Asiatic Russia
+UC0;Asiatic Russia
+UC8;Asiatic Russia
+UC9;Asiatic Russia
+UD0;Asiatic Russia
+UD8;Asiatic Russia
+UD9;Asiatic Russia
+UE0;Asiatic Russia
+UE8;Asiatic Russia
+UE9;Asiatic Russia
+UF0;Asiatic Russia
+UF8;Asiatic Russia
+UF9;Asiatic Russia
+UG0;Asiatic Russia
+UG8;Asiatic Russia
+UG9;Asiatic Russia
+UH0;Asiatic Russia
+UH8;Asiatic Russia
+UH9;Asiatic Russia
+UI0;Asiatic Russia
+UI8;Asiatic Russia
+UI9;Asiatic Russia
+RA;Asiatic Russia
+RB;Asiatic Russia
+RC;Asiatic Russia
+RD;Asiatic Russia
+RE;Asiatic Russia
+RF;Asiatic Russia
+RG;Asiatic Russia
+RH;Asiatic Russia
+RI;Asiatic Russia
+RJ;Asiatic Russia
+RK;Asiatic Russia
+RL;Asiatic Russia
+RM;Asiatic Russia
+RN;Asiatic Russia
+RO;Asiatic Russia
+RP;Asiatic Russia
+RQ;Asiatic Russia
+RR;Asiatic Russia
+RS;Asiatic Russia
+RT;Asiatic Russia
+RU;Asiatic Russia
+RV;Asiatic Russia
+RW;Asiatic Russia
+RX;Asiatic Russia
+RY;Asiatic Russia
+RZ;Asiatic Russia
+UA2;Kaliningrad
+RA2;Kaliningrad
+UJ;Uzbekistan
+UK;Uzbekistan
+UL;Uzbekistan
+UM;Uzbekistan
+UN;Kazakhstan
+UO;Kazakhstan
+UP;Kazakhstan
+UQ;Kazakhstan
+UR;Ukraine
+US;Ukraine
+UT;Ukraine
+UU;Ukraine
+UV;Ukraine
+UW;Ukraine
+UX;Ukraine
+UY;Ukraine
+UZ;Ukraine
+EM;Ukraine
+EN;Ukraine
+EO;Ukraine
+V2;Antigua and Barbuda
+V3;Belize
+V4;Saint Kitts and Nevis
+V5;Namibia
+V6;Micronesia
+V7;Marshall Islands
+V8;Brunei Darussalam
+VA;Canada
+VB;Canada
+VC;Canada
+VD;Canada
+VE;Canada
+VF;Canada
+VG;Canada
+VO;Canada
+VY;Canada
+VK;Australia
+AX;Australia
+VK0;Heard Island and McDonald Islands
+VK0;Macquarie Island
+VK9C;Cocos (Keeling) Islands
+VK9L;Lord Howe Island
+VK9M;Mellish Reef
+VK9N;Norfolk Island
+VK9W;Willis Island
+VK9X;Christmas Island
+VP2E;Anguilla
+VP2M;Montserrat
+VP2V;British Virgin Is.
+VP5;Turks and Caicos Islands
+VP6;Pitcairn Islands
+VP6;Ducie Island
+VP8;Falkland Islands
+VP8;South Georgia Island
+LU;South Georgia Island
+VP8;South Orkney Islands
+LU;South Orkney Islands
+VP8;South Sandwich Islands
+LU;South Sandwich Islands
+VP8;South Shetland Islands
+LU;South Shetland Islands
+CE9;South Shetland Islands
+HF0;South Shetland Islands
+4K1;South Shetland Islands
+VP9;Bermuda
+VQ9;Chagos Islands
+VR;Hong Kong
+VU;India
+VU4;Andaman and Nicobar Islands
+VU7;Lakshadweep
+XA;Mexico
+XB;Mexico
+XC;Mexico
+XD;Mexico
+XE;Mexico
+XF;Mexico
+XG;Mexico
+XH;Mexico
+XI;Mexico
+XA4;Revillagigedo Islands
+XB4;Revillagigedo Islands
+XC4;Revillagigedo Islands
+XD4;Revillagigedo Islands
+XE4;Revillagigedo Islands
+XF4;Revillagigedo Islands
+XG4;Revillagigedo Islands
+XH4;Revillagigedo Islands
+XI4;Revillagigedo Islands
+XT;Burkina Faso
+XU;Cambodia
+XW;Laos
+XX9;Macao
+XY;Myanmar
+XZ;Myanmar
+YA;Afghanistan
+T6;Afghanistan
+YB;Indonesia
+YC;Indonesia
+YD;Indonesia
+YE;Indonesia
+YF;Indonesia
+YG;Indonesia
+YH;Indonesia
+YI;Iraq
+YJ;Vanuatu
+YK;Syria
+YL;Latvia
+YN;Nicaragua
+H6;Nicaragua
+H7;Nicaragua
+HT;Nicaragua
+YO;Romania
+YP;Romania
+YQ;Romania
+YR;Romania
+YS;El Salvador
+HU;El Salvador
+YT;Serbia
+YU;Serbia
+YV;Venezuela
+YW;Venezuela
+YX;Venezuela
+YY;Venezuela
+4M;Venezuela
+YV0;Isla de Aves
+Z2;Zimbabwe
+Z3;North Macedonia
+Z6;Kosovo
+Z8;South Sudan
+ZA;Albania
+ZB2;Gibraltar
+ZC4;Sovereign Base Areas of Akrotiri and Dhekelia
+ZD7;St. Helena
+ZD8;Ascension Island
+ZD9;Tristan da Cunha and Gough Islands
+ZF;Cayman Islands
+ZK3;Tokelau
+ZL;New Zealand
+ZM;New Zealand
+ZL7;Chatham Islands
+ZL8;Kermadec Islands
+ZL9;New Zealand Subantarctic Islands
+ZP;Paraguay
+ZR;South Africa
+ZS;South Africa
+ZT;South Africa
+ZU;South Africa
+ZS8;Prince Edward and Marion Islands
+nan;Abu Ail Islands
+nan;Blenheim Reef
+nan;Geyser Reef
+1M;Minerva Reefs
+4W;Yemen Arab Republic
+7J1;Okinotorishima
+8Z4;Saudi Arabia/Iraq Neutral Zone
+8Z5;Kuwait/Saudi Arabia Neutral Zone
+9K3;Kuwait/Saudi Arabia Neutral Zone
+9S4;Saar
+9U5;Ruanda-Urundi
+AC3;Sikkim
+AC4;Tibet
+C9;Manchuria
+CN2;Tangier
+CR8;Daman and Diu
+CR8;Goa
+CR8;Portuguese Timor
+CR10;Portuguese Timor
+DA;West Germany
+DB;West Germany
+DC;West Germany
+DD;West Germany
+DE;West Germany
+DF;West Germany
+DG;West Germany
+DH;West Germany
+DI;West Germany
+DJ;West Germany
+DK;West Germany
+DL;West Germany
+DM;East Germany
+Y2;East Germany
+Y3;East Germany
+Y4;East Germany
+Y5;East Germany
+Y6;East Germany
+Y7;East Germany
+Y8;East Germany
+Y9;East Germany
+EA9;Ifni
+FF;French West Africa
+FH;Comoros
+FB8;Comoros
+FI8;French Indo-China
+FN8;French India
+FQ8;French Equatorial Africa
+HK0;Bajo Nuevo
+HK0;Serrana Bank & Roncador Cay
+KP3;Serrana Bank & Roncador Cay
+KS4;Serrana Bank & Roncador Cay
+I1;Trieste
+I5;Italian Somaliland
+JZ0;Netherlands New Guinea
+KH5K;Kingman Reef
+KR6;Ryukyu Islands
+KR8;Ryukyu Islands
+JR6;Ryukyu Islands
+KA6;Ryukyu Islands
+KS4;Swan Is.
+KZ5;Panama Canal Zone
+OK;Czechoslovakia
+OL;Czechoslovakia
+OM;Czechoslovakia
+P2;Papua Territory
+VK9;Papua Territory
+P2;Territory of New Guinea
+VK9;Territory of New Guinea
+PJ;Bonaire and Curaçao
+PJ;St. Maarten, Saba, St. Eustatius
+PK1;Java
+PK2;Java
+PK3;Java
+PK4;Sumatra
+PK5;Netherlands Borneo
+PK6;Celebes and the Molucca Islands
+R1/M;Maly Vysotsky Island
+ST0;Southern Sudan
+UN1;Karelo-Finnish Soviet Socialist Republic
+VO;Newfoundland, Labrador
+VQ1;Zanzibar
+5H1;Zanzibar
+VQ6;British Somaliland
+VQ9;Aldabra
+VQ9;Desroches Island
+VQ9;Farquhar Group
+VS2;Malaya
+9M2;Malaya
+VS4;Sarawak
+VS9A;People's Democratic Rep. of Yemen
+VS9P;People's Democratic Rep. of Yemen
+VS9S;People's Democratic Rep. of Yemen
+VS9H;Khuriya Muriya Islands
+VS9K;Kamaran Island
+ZC5;British North Borneo
+ZC6;Palestine
+4X1;Palestine
+ZD4;British Togoland
+ZS0;Penguin Is.
+ZS1;Penguin Is.
+ZS9;Walvis Bay

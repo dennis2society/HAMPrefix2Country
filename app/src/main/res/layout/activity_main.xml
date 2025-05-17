@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.d2s.hamprefix2country.MainActivity">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HAMPrefix2Country"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/callsignLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enter first digits of callsign (automatic upper-case)" />
+
+        <EditText
+            android:id="@+id/callsignEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:textAllCaps="true" />
+
+        <Button
+            android:id="@+id/clearCallsignButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1F440A"
+            android:text="Clear Prefix/Callsign"
+            android:textColorLink="#154206"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/countryLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Matching Countries:" />
+
+        <TextView
+            android:id="@+id/countryTextView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:scrollbars="vertical"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/aboutButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App Info" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
