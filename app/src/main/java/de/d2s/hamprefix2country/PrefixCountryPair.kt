@@ -25,11 +25,11 @@ class PrefixCountryCSV(fileString: String) {
         // Brute-force search through all prefixes
         for (pcp in prefixCountryList) {
             if (pcp.prefix.startsWith(prefixIn)) {
-                outList.add(pcp.country)
+                outList.add(pcp.country+" ("+pcp.prefix+")")
             }
             // add exact match at beginning
             if (pcp.prefix == prefixIn) {
-                outList.add(0, pcp.country)
+                outList.add(0, pcp.country+" ("+pcp.prefix+")")
             }
         }
         // remove duplicates on return
