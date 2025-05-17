@@ -2,6 +2,9 @@
 .gradle/
 build/
 
+# App Release Files
+app/release/*
+
 # Local configuration files
 local.properties
 
